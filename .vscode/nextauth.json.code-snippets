@@ -87,5 +87,10 @@
       "}"
     ],
     "description": "next _app auth"
+  },
+  "con _useSatate": {
+    "prefix": "con_useSatate",
+    "body": ["const [, set] = useState(\"\");"],
+    "description": "con _useSatate"
   }
 }
